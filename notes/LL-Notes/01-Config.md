@@ -13,9 +13,9 @@
 ## Configuring Environment
 
 - We have 3 type of Chef Machines we deal with
-	- Chef WorkStation (This is our local machine from where we control the infrastructure through the Chef Development Kit or ChefDK)
-	- Chef Server (The Chef Server acts as a central repository for cookbooks as well as for information about every node it manages)
-	- Chef Node/Client (A node is any physical or virtual machine in your network that is managed by the Chef server. The Chef client runs on each node and securely communicates with the Chef server to get the latest configuration instructions. The Chef client uses the instructions to bring the node to its desired state.)
+	- ***Chef WorkStation*** (This is our local machine from where we control the infrastructure through the Chef Development Kit or ChefDK)
+	- ***Chef Server*** (The Chef Server acts as a central repository for cookbooks as well as for information about every node it manages)
+	- ***Chef Node/Client*** (A node is any physical or virtual machine in your network that is managed by the Chef server. The Chef client runs on each node and securely communicates with the Chef server to get the latest configuration instructions. The Chef client uses the instructions to bring the node to its desired state.)
 
 - ***Configuring WorkStation***
 	- Create a directory for Chef
