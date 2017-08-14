@@ -2,7 +2,7 @@
 
 ## Chef Organization
 
-- Go to `www.getchef.com` and SignUp for your account
+- Go to [GetChef](https://www.getchef.com) and SignUp for your account
 - Once you have your account login and `Create New Organization`
 - Now you need to download the starter kit. For this:
 	- Click on the Organization name at the right-most corner and select `Manage Organizations`
